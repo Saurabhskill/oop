@@ -9,7 +9,7 @@ int main()
     cin >> num;
 
     float result = sqrt(num);
-    cout << "The cube is: " << result;
+    cout << "The square root is: " << result;
 
     return 0;
 }
