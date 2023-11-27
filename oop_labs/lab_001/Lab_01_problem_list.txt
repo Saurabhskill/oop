@@ -9,4 +9,4 @@
   Write a program to determine the value of n^3, taking n from the user.
 8. Write a program to find the area of Rectangle.
 9. Write a program to find the area of cube and circle.
-10. Write a program to convert Frenheit to Celsius and Celsius to Frenheit.
+10. Write a program to convert Farenheit to Celsius and Celsius to Farenheit.
