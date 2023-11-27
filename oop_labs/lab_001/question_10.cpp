@@ -13,12 +13,16 @@ int main()
     if (option == 1) {
         cout << "Enter the temperature in Farenheit:\n";
         cin >> far;
+
+        //converting farenheit to celsius
         cel = 5 * (far - 32) / 9.0;
         cout << "Temperature in degree Celsius is: " << cel;
     }
     else if (option == 2) {
         cout << "Enter temperature in Celsius:\n";
         cin >> cel;
+
+        //converting celsius to farenheit 
         far = 9 * cel / 5.0 + 32;
         cout << "Temperature in degree Farenheit: " << far;
     }
