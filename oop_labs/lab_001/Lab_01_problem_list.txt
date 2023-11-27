@@ -1,9 +1,9 @@
 ------------------------------------------------- ***** Lab No. 01 ***** -----------------------------------
-1. Write a program to input two numbers and prints its Sum, difference and product.
-2. Write a program to input two numbers and prints its Square.
-3. Write a program to input two numbers and prints its cube.
-4. Write a program to input two numbers and prints its square root.
-5. Write a program to input two numbers and prints its cube root.
+1. Write a program to input two numbers and print its Sum, difference and product.
+2. Write a program to input a number and print its Square.
+3. Write a program to input a number and print its cube.
+4. Write a program to input a number and print its square root.
+5. Write a program to input a number and print its cube root.
 6. Given that 1+2+3+4+---------+n = n*(n+1)/2. Write a program to determine the value of 10+11+12+13+----+20.
 7. Given that 1^2 + 2^2 + 3^2 +------+ n^2 = (n*(n+1)*(2*n+1))/6.
   Write a program to determine the value of n^3, taking n from the user.
