@@ -1,0 +1,13 @@
+--------------------------------***** Lab No. 02 *****------------------------------
+1.Write a program to input two numbers and print the bigger number. 
+2.Write a program to input a number a print whether it is odd or even. 
+3.Write a program to input three numbers and print the bigger number. 
+4. Write a program to check whether a number is positive or negative or 
+zero. 
+5.Write a program to check whether a character is vowel or consonant. 
+6.Write a program to check whether a year is leap year or not. 
+7.Write a program to check whether a number is divisible by 5 or not. 
+8.Write a program to check whether a character is UPPER CASE or Lower 
+Case. 
+9.Write a program to enter the week number and print day of week. 
+10. Write a program to find all roots of a quadratic equation.
